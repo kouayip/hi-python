@@ -1,0 +1,13 @@
+email,gender,phone_number,birthdate,location,username,password,first_name,last_name,title,picture
+väinö.huotari@example.com,male,042-857-08-93,691627396,"{'street': '8880 nordenskiöldinkatu', 'city': 'lapinlahti', 'state': 'north karelia', 'postcode': 15409}",orangemouse353,5424,väinö,huotari,mr,algolia/men/raymond.png
+jeremiah.graham@example.com,male,(666)-480-0019,575937069,"{'street': '7383 plum st', 'city': 'san antonio', 'state': 'south carolina', 'postcode': 68195}",goldenbutterfly467,gilbert,jeremiah,graham,mr,algolia/men/olivier.png
+tom.wolff@example.com,male,0175-3665364,477527796,"{'street': '6876 buchenweg', 'city': 'vechta', 'state': 'schleswig-holstein', 'postcode': 35491}",ticklishduck355,budlight,tom,wolff,mr,algolia/men/xander.png
+florian.hahn@example.com,male,0170-0421455,25757437,"{'street': '6870 birkenstraße', 'city': 'ostprignitz-ruppin', 'state': 'sachsen', 'postcode': 97964}",smallsnake648,iron,florian,hahn,mr,algolia/men/julien.png
+mason.abraham@example.com,male,807-178-9585,985022570,"{'street': '3291 simcoe st', 'city': 'westport', 'state': 'alberta', 'postcode': 55048}",silvermouse222,belle,mason,abraham,mr,algolia/men/honza.png
+ernest.williamson@example.com,male,081-571-7090,439547391,"{'street': '7184 main street', 'city': 'tramore', 'state': 'maine', 'postcode': 10605}",silverleopard819,2112,ernest,williamson,mr,algolia/men/tim.png
+aurélien.fontai@example.com,male,(364)-916-4680,682846734,"{'street': '2443 place de la mairie', 'city': 'epesses', 'state': 'genève', 'postcode': 5403}",silversnake816,debra,aurélien,fontai,monsieur,algolia/men/alexs.png
+priteche.fogaça@example.com,male,(57) 6145-5813,625120148,"{'street': '1857 rua rio de janeiro ', 'city': 'jaboatão dos guararapes', 'state': 'rio grande do norte', 'postcode': 70353}",yellowkoala267,jabber,priteche,fogaça,mr,algolia/men/gabe.png
+اميرمحمد.جعفری@example.com,male,0999-396-3738,96378384,"{'street': '8409 مقدس اردبیلی', 'city': 'گلستان', 'state': 'مازندران', 'postcode': 61121}",lazyostrich947,qwert1,اميرمحمد,جعفری,mr,algolia/men/jeremy.png
+christoffer.christiansen@example.com,male,05761325,244475798,"{'street': '3391 pilevangen', 'city': 'overby lyng', 'state': 'danmark', 'postcode': 88520}",smallbird985,samuel,christoffer,christiansen,mr,algolia/men/lucas.png
+rosemary.robinson@example.com,female,(565)-785-2730,892723152,"{'street': '8319 robinson rd', 'city': 'eugene', 'state': 'louisiana', 'postcode': 86613}",crazymeercat494,advance,rosemary,robinson,ms,algolia/women/fanette.png
+melissa.fleming@example.com,female,0740-304-475,469521368,"{'street': '3655 manchester road', 'city': 'winchester', 'state': 'berkshire', 'postcode': 'YB2 8EJ'}",goldenkoala410,sick,melissa,fleming,miss,algolia/women/pragati.png
